@@ -12,3 +12,6 @@ workon xxx
 
 git init xxx
 
+git config --global user.name " "
+git config --global user.email "Ku-Al"
+
