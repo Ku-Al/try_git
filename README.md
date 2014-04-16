@@ -10,6 +10,10 @@ vim .bashrs
 mkvirtualenv xxx
 workon xxx
 
+lsvirtualenv                           - вывести список доступных виртуальных окружений
+rmvirtualenv ххх      - удалить виртуальное окружение "env_name1"
+deactivate                              - выйти из текущего виртуального окружения
+
 git init xxx
 
 git config --global user.name " "
