@@ -1,4 +1,7 @@
 apt-get install python-virtualenv, python-pip
+
+можно юзать и так, для активации source bin/activate
+можно ставить дальше 
 pip install virtualenvwrapper
 
 
@@ -13,6 +16,7 @@ workon xxx
 lsvirtualenv                           - вывести список доступных виртуальных окружений
 rmvirtualenv ххх      - удалить виртуальное окружение "env_name1"
 deactivate                              - выйти из текущего виртуального окружения
+
 
 git init xxx
 
